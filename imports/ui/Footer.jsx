@@ -4,8 +4,8 @@ import { ReactDOM } from 'react-dom';
 export default class Footer extends Component {
   render(){
     return (
-      <div className="_footer">
-        <p>Footer</p>
+      <div className="">
+        
       </div>
     )
   }
